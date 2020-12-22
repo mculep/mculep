@@ -1,6 +1,8 @@
 
 
 <img src="https://github.com/mculep/mculep/blob/main/assets/github-banner.jpg" width="900" height="250" alt="Header picture" />
+
+<a href="https://www.linkedin.com/in/melodyulep/"><img src="https://github.com/mculep/mculep/blob/main/assets/linkedin-icon.jpg" alt="Linkedin Icon"width="75px""></a>
 <!--
 **mculep/mculep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
