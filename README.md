@@ -1,6 +1,6 @@
-### ALOHA! 🤙🏽
 
-<img src="https://github.com/mculep/mculep/blob/main/assets/github-banner.jpg" width="800" height="200" alt="Header picture" />
+
+<img src="https://github.com/mculep/mculep/blob/main/assets/github-banner.jpg" width="900" height="250" alt="Header picture" />
 <!--
 **mculep/mculep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
