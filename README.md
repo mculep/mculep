@@ -1,13 +1,12 @@
 <img src="https://github.com/mculep/mculep/blob/main/assets/github-banner.jpg" width="900" height="250" alt="Header picture" />
 
 <p>
-<a href="https://www.linkedin.com/in/melodyulep/"><img src="https://github.com/mculep/mculep/blob/main/assets/linkedin-icon.jpg" width="100" alt="Linkedin icon"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/melodyulep/"><img src="https://github.com/mculep/mculep/blob/main/assets/linkedin-icon.jpg" width="70" alt="Linkedin icon"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:mculep@gmail.com"><img src="https://github.com/mculep/mculep/blob/main/assets/email-icon.jpg" width="80" alt="Email
  icon"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://melodyulep.com"><img src="https://github.com/mculep/mculep/blob/main/assets/email-icon.jpg" width="80" alt="Email
- icon"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://melodyulep.com"><img src="https://github.com/mculep/mculep/blob/main/assets/website-icon.jpg" width="80" alt="Website icon"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
