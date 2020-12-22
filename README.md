@@ -1,15 +1,11 @@
-<<<<<<< HEAD
 <img src="https://github.com/mculep/mculep/blob/main/assets/github-banner.jpg" width="900" height="250" alt="Header picture" />
-<br>
+
 <a href=mailto:mculep@gmail.com"><img alt="Linkedin icon" src="https://github.com/mculep/mculep/blob/main/assets/linkedin-icon.jpg" width="100">
+
 <a href=https://www.linkedin.com/in/melodyulep/"><img alt="Email icon" src="https://github.com/mculep/mculep/blob/main/assets/email-icon.jpg" width="100">
+
 <a href=https://melodyulep.com"><img alt="Website icon" src="https://github.com/mculep/mculep/blob/main/assets/website-icon.jpg" width="100">
 
-=======
-
-
-    
->>>>>>> 4eda66459c50d3f11fa26a016d1bdddd10f12db7
 <!--
 **mculep/mculep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
