@@ -1,4 +1,4 @@
-### ALOHA! 🤙🏽
+
 
 <img src="https://github.com/mculep/mculep/blob/main/assets/github-banner.jpg" width="900" height="250" alt="Header picture" />
 <!--
