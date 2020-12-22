@@ -1,10 +1,10 @@
 <img src="https://github.com/mculep/mculep/blob/main/assets/github-banner.jpg" width="900" height="250" alt="Header picture" />
 
-<a href=mailto:mculep@gmail.com"><img alt="Linkedin icon" src="https://github.com/mculep/mculep/blob/main/assets/linkedin-icon.jpg" width="100">
+<a href=mailto:mculep@gmail.com" src="https://github.com/mculep/mculep/blob/main/assets/linkedin-icon.jpg" width="100" img alt="Linkedin icon">
 
-<a href=https://www.linkedin.com/in/melodyulep/"><img alt="Email icon" src="https://github.com/mculep/mculep/blob/main/assets/email-icon.jpg" width="100">
+<a href=https://www.linkedin.com/in/melodyulep/" src="https://github.com/mculep/mculep/blob/main/assets/email-icon.jpg" width="100" img alt="Email icon">
 
-<a href=https://melodyulep.com"><img alt="Website icon" src="https://github.com/mculep/mculep/blob/main/assets/website-icon.jpg" width="100">
+<a href=https://melodyulep.com" src="https://github.com/mculep/mculep/blob/main/assets/website-icon.jpg" width="100" img alt="Website icon">
 
 <!--
 **mculep/mculep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
