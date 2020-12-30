@@ -10,11 +10,11 @@
 
 <!-- About me -->
 
-- 🌱 I’m currently learning **Node.js and Express.js**
+🌱 I’m currently learning **Node.js and Express.js**
 
-- 💬 Ask me about **What to eat in Hawaii.**
+💬 Ask me about **What to eat in Hawaii.**
 
-- ⚡ Fun fact **I use to be a Welder that worked on Navy ships located at Pearl Harbor.**
+ ⚡ Fun fact **I use to be a Welder that worked on Navy ships located at Pearl Harbor.**
 
 <!-- Tools -->
 
