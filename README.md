@@ -18,7 +18,7 @@
 
  ⚡ Fun fact **I use to be a Welder that worked on Navy ships located at Pearl Harbor.**
 
-<!-- Tools -->
+<!-- Tools
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -36,6 +36,4 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-
-
-
+ -->
