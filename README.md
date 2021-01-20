@@ -14,7 +14,7 @@
 
 <!-- About me -->
 
-🌱 I’m currently learning **Node.js and Express.js**
+🌱 I’m currently learning **React**
 
 💬 Ask me about **What to eat in Hawaii.**
 
