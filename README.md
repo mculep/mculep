@@ -20,7 +20,7 @@
 
  ⚡ Fun fact **I use to be a Welder that worked on Navy ships located at Pearl Harbor.**
 
-<!-- Tools
+<!-- Tools -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
