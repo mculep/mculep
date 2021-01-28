@@ -16,9 +16,5 @@
 
 🌱 I’m currently learning **React**
 
-💬 Ask me about **What to eat in Hawaii.**
-
- ⚡ Fun fact **I use to be a Welder that worked on Navy ships located at Pearl Harbor.**
-
 <!-- Tools -->
 
