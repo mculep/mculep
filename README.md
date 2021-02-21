@@ -14,7 +14,6 @@
 
 <!-- About me -->
 
-🌱 I’m currently learning **React**
 
 <!-- Tools -->
 
